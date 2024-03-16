@@ -1,0 +1,12 @@
+Clothing,A100,Shirt,2,1000.0,large,red
+Electronics,A101,Oven,20,2000.0,toy,12yrs
+Electronics,A102,car,12,130000.0,Mazda,15yrs
+Electronics,A103,Samsung,50,12000.0,sas,6yrs
+Clothing,A104,cap,1,5000.0,small,white
+Clothing,A105,short,78,7000.0,medium,blue
+Clothing,A106,trouser,300,2000.0,l,black
+Electronics,A107,ford,5,399999.0,mustang,12yrs
+Electronics,A108,Washingmachine,10,1000.0,bosh,12yrs
+Electronics,A109,WashingMAchine,10,10000.0,bosh,12yrs
+Clothing,A110,shirt,5,500.0,l,red
+Electronics,A111,Mobile,20,20000.0,samsung,12yrs
